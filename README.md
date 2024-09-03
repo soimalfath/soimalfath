@@ -9,8 +9,7 @@
 </p>
 <h4>🚀 Abaout Me</h4>
 <p>
-I craft digital experiences that merge aesthetics with functionality. My code is my canvas, and each project is a new masterpiece waiting to be created.
-When I'm not immersed in lines of code, you'll find me exploring new coffee shops, capturing moments through my camera lens, or getting lost in the pages of a good book.
+Crafting elegant code and impactful digital strategies. I blend creativity with technology to build experiences that connect and convert. Always curious, always coding
 Let's build something beautiful together.
   </p>
 <br/>
