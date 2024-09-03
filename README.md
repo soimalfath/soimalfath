@@ -1,14 +1,16 @@
 <h1 align="center">Hi, there! 👋 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;UI/UX+Enthusiast;1.5+Years+of+Coding+Adventure&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Digital Marketer&center=true&width=380&height=45">
 </p>
 <p align="center">
-  <a href="https://soimverse.qidigi.com"><img src="https://img.shields.io/badge/Website-YourWebsite-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="https://linkedin.com/in/soimalfath"><img src="https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://soimverse.qidigi.com"><img src="https://img.shields.io/badge/Website-Soimverse-blue?style=flat-square&logo=google-chrome"></a>
+  <a href="https://linkedin.com/in/soimalfath"><img src="https://img.shields.io/badge/LinkedIn-Soim-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:soimkmpbg@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=flat-square&logo=gmail"></a>
 </p>
-🚀 Tentang Saya
-Saya seorang Frontend Developer dengan 1.5 tahun pengalaman menciptakan pengalaman web yang menakjubkan. Saya percaya bahwa kode yang baik adalah seperti seni - indah, efisien, dan membuat dunia menjadi tempat yang lebih baik, satu baris kode pada satu waktu.
+🚀 Abaout Me
+I craft digital experiences that merge aesthetics with functionality. My code is my canvas, and each project is a new masterpiece waiting to be created.
+When I'm not immersed in lines of code, you'll find me exploring new coffee shops, capturing moments through my camera lens, or getting lost in the pages of a good book.
+Let's build something beautiful together.
 💻 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -20,7 +22,7 @@ Saya seorang Frontend Developer dengan 1.5 tahun pengalaman menciptakan pengalam
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
-🌟 Highlight Proyek
+<!-- 🌟 Highlight Proyek
 <table>
   <tr>
     <td width="50%">
@@ -54,7 +56,7 @@ Saya seorang Frontend Developer dengan 1.5 tahun pengalaman menciptakan pengalam
       </p>
     </td>
   </tr>
-</table>
+</table> -->
 📊 GitHub Analytics
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soimalfath&show_icons=true&theme=radical" />
