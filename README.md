@@ -1,6 +1,6 @@
 <h1 align="center">Hi, there! 👋 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Digital Marketer&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Digital+Marketer;&center=true&width=380&height=45">
 </p>
 <p align="center">
   <a href="https://soimverse.qidigi.com"><img src="https://img.shields.io/badge/Website-Soimverse-blue?style=flat-square&logo=google-chrome"></a>
