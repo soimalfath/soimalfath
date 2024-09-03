@@ -7,17 +7,16 @@
   <a href="https://linkedin.com/in/soimalfath"><img src="https://img.shields.io/badge/LinkedIn-Soim-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:soimkmpbg@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=flat-square&logo=gmail"></a>
 </p>
-🚀 Abaout Me
+<h4>🚀 Abaout Me</h4>
 <p>
 I craft digital experiences that merge aesthetics with functionality. My code is my canvas, and each project is a new masterpiece waiting to be created.
 When I'm not immersed in lines of code, you'll find me exploring new coffee shops, capturing moments through my camera lens, or getting lost in the pages of a good book.
 Let's build something beautiful together.
   </p>
 <br/>
-<h5>
+<h4>
   💻 Tech Stack
-</h5>
-<br/>
+</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -64,23 +63,18 @@ Let's build something beautiful together.
     </td>
   </tr>
 </table> -->
-<h5>📊 GitHub Analytics</h5>
-
-<br/>
-<br/>
+<h4>📊 GitHub Analytics</h4>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soimalfath&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soimalfath&layout=compact&theme=radical"/>
 </p>
-<h5>🌱 Sedang Explore</h5>
-<br/>
+<h4>🌱 Sedang Explore</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Nest.js-E10098?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js" />
 </p>
-<h5>📫 Let's Connect!</h5>
-<br/>
+<h4>📫 Let's Connect!</h4>
 <p align="center">
   <a href="https://linkedin.com/in/soimalfath">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
