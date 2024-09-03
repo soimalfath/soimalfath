@@ -14,7 +14,9 @@ When I'm not immersed in lines of code, you'll find me exploring new coffee shop
 Let's build something beautiful together.
   </p>
 <br/>
-💻 Tech Stack
+<h5>
+  💻 Tech Stack
+</h5>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -62,21 +64,22 @@ Let's build something beautiful together.
     </td>
   </tr>
 </table> -->
-📊 GitHub Analytics
+<h5>📊 GitHub Analytics</h5>
+
 <br/>
 <br/>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soimalfath&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soimalfath&layout=compact&theme=radical"/>
 </p>
-🌱 Sedang Dipelajari
+<h5>🌱 Sedang Explore</h5>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Nest.js-E10098?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js" />
 </p>
-📫 Mari Terhubung!
+<h5>📫 Let's Connect!</h5>
 <br/>
 <p align="center">
   <a href="https://linkedin.com/in/soimalfath">
