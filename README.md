@@ -11,7 +11,9 @@
 I craft digital experiences that merge aesthetics with functionality. My code is my canvas, and each project is a new masterpiece waiting to be created.
 When I'm not immersed in lines of code, you'll find me exploring new coffee shops, capturing moments through my camera lens, or getting lost in the pages of a good book.
 Let's build something beautiful together.
+<br/>
 💻 Tech Stack
+<br/>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -22,6 +24,7 @@ Let's build something beautiful together.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
+<br/>
 <!-- 🌟 Highlight Proyek
 <table>
   <tr>
@@ -58,17 +61,20 @@ Let's build something beautiful together.
   </tr>
 </table> -->
 📊 GitHub Analytics
+<br/>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soimalfath&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soimalfath&layout=compact&theme=radical"/>
 </p>
 🌱 Sedang Dipelajari
+<br/>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Nest.js-E10098?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js" />
 </p>
 📫 Mari Terhubung!
+<br/>
 <p align="center">
   <a href="https://linkedin.com/in/soimalfath">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
