@@ -1,4 +1,4 @@
-# Halo, Saya [Soim] 👋
+# Halo, Saya Soim 👋
 
 ## Frontend Developer 
 
