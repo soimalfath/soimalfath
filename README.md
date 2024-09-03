@@ -8,9 +8,11 @@
   <a href="mailto:soimkmpbg@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=flat-square&logo=gmail"></a>
 </p>
 🚀 Abaout Me
+<p>
 I craft digital experiences that merge aesthetics with functionality. My code is my canvas, and each project is a new masterpiece waiting to be created.
 When I'm not immersed in lines of code, you'll find me exploring new coffee shops, capturing moments through my camera lens, or getting lost in the pages of a good book.
 Let's build something beautiful together.
+  </p>
 <br/>
 💻 Tech Stack
 <br/>
@@ -61,6 +63,7 @@ Let's build something beautiful together.
   </tr>
 </table> -->
 📊 GitHub Analytics
+<br/>
 <br/>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soimalfath&show_icons=true&theme=radical" />
