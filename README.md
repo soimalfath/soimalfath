@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <a href="https://soimverse.qidigi.com"><img src="https://img.shields.io/badge/Website-Soimverse-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="https://linkedin.com/in/soimalfath"><img src="https://img.shields.io/badge/LinkedIn-Soim-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://linkedin.com/in/soim-alfath"><img src="https://img.shields.io/badge/LinkedIn-Soim-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:soimkmpbg@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=flat-square&logo=gmail"></a>
 </p>
 <h4>🚀 Abaout Me</h4>
