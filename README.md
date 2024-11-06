@@ -7,7 +7,7 @@
   <a href="https://linkedin.com/in/soim-alfath"><img src="https://img.shields.io/badge/LinkedIn-Soim-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:soimkmpbg@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=flat-square&logo=gmail"></a>
 </p>
-<h4>🚀 Abaout Me</h4>
+<h4>🚀 About Me</h4>
 <p>
 Crafting elegant code and impactful digital strategies. I blend creativity with technology to build experiences that connect and convert. Always curious, always coding
 Let's build something beautiful together.
@@ -67,7 +67,7 @@ Let's build something beautiful together.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soimalfath&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soimalfath&layout=compact&theme=radical"/>
 </p>
-<h4>🌱 Sedang Explore</h4>
+<h4>🌱 Currently Exploring</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
